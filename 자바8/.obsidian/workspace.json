@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "스트림/메소드 참조.md",
+                "file": "스트림/제네릭.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "스트림/메소드 참조.md",
+                "file": "스트림/제네릭.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "스트림/메소드 참조.md",
+                "file": "스트림/제네릭.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "스트림/메소드 참조.md"
+                "file": "스트림/제네릭.md"
               }
             }
           }
@@ -157,9 +157,9 @@
   "active": "95cf956c3a939eb2",
   "lastOpenFiles": [
     "스트림/스트림.md",
+    "스트림/메소드 참조.md",
     "스트림/제네릭.md",
     "스트림/람다식.md",
-    "스트림/메소드 참조.md",
     "스트림/Function 패키지.md",
     "스트림/함수형 인터페이스.md",
     "무제 파일.canvas",
