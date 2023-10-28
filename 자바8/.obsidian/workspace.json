@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8ffe19df0e707185",
+        "id": "9d73bb9b4159a153",
         "type": "tabs",
         "children": [
           {
-            "id": "5c3b1330667754bc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "3887228c8200e330",
+            "id": "acf6cce3383f20f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "스트림/무제 파일.md",
+                "file": "마크다운/마크다운.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "스트림/무제 파일.md",
+                "file": "마크다운/마크다운.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "스트림/무제 파일.md",
+                "file": "마크다운/마크다운.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "스트림/무제 파일.md"
+                "file": "마크다운/마크다운.md"
               }
             }
           }
@@ -163,9 +154,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3887228c8200e330",
+  "active": "acf6cce3383f20f4",
   "lastOpenFiles": [
-    "스트림/무제 파일.md",
+    "스트림/.md",
+    "마크다운/마크다운.md",
+    "마크다운/옵시디언 사용법.md",
+    "마크다운",
     "스트림",
     ".md",
     "무제 폴더 1",
