@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,17 +156,17 @@
   },
   "active": "95cf956c3a939eb2",
   "lastOpenFiles": [
-    "무제 파일.canvas",
-    "스트림/메소드 참조.md",
+    "스트림/스트림.md",
     "스트림/제네릭.md",
-    "스트림/함수형 인터페이스.md",
-    "스트림/Function 패키지.md",
-    "스트림/context.mdb",
     "스트림/람다식.md",
+    "스트림/메소드 참조.md",
+    "스트림/Function 패키지.md",
+    "스트림/함수형 인터페이스.md",
+    "무제 파일.canvas",
+    "스트림/context.mdb",
     "마크다운/마크다운.md",
     "마크다운/옵시디언 사용법.md",
     "무제 파일 1.canvas",
-    "스트림/스트림.md",
     "Pasted image 20231028173905.png",
     "Pasted image 20231028173841.png",
     "Paste.md",
