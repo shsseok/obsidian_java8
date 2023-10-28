@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "52cd1fbe6da73be8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ffe19df0e707185",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c3b1330667754bc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "991a0456a762c72e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6e0e39280d0458e",
+    "type": "split",
+    "children": [
+      {
+        "id": "68427e0d27aa387b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97106a7be66e5a17",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4cf6aeb95f287703",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "420031ef475b025b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "0cba4a5548459189",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d637dca0a52c8995",
+    "type": "split",
+    "children": [
+      {
+        "id": "3da4437ddea85305",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7286937f7b41d7e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "무제 파일.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1aab54d27eb51a0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "무제 파일.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c30c911216e59d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8549484a98b53d3e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "무제 파일.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "991a0456a762c72e",
+  "lastOpenFiles": [
+    "무제 파일.md",
+    "무제 파일 4.md",
+    "1.md",
+    "2.md",
+    "무제 파일 1.md",
+    "무제 파일 3.md",
+    "무제 파일 2.md",
+    "Context/spacesLastSync.log",
+    "Context"
+  ]
+}
