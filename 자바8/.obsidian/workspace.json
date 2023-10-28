@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "19e27b00c74a4534",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "스트림/람다식.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8a6a52aedac925d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "스트림/람다식.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,15 +179,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "aa5c3c861ff54562",
+  "active": "d8a6a52aedac925d",
   "lastOpenFiles": [
     "스트림/메소드 참조.md",
-    "스트림/람다식.md",
+    "스트림/스트림.md",
     "스트림/함수형 인터페이스.md",
+    "스트림/람다식.md",
     "마크다운/마크다운.md",
     "함수형~~ 인터페이스.md",
     "important.md",
-    "스트림/스트림.md",
     "스트림/context.mdb",
     "스트림/제네릭.md",
     "스트림/.md",
