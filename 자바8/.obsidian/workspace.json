@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "92fb8e670a71d919",
+        "id": "34db41495cfaf00a",
         "type": "tabs",
         "children": [
           {
-            "id": "d8a6a52aedac925d",
+            "id": "ab8542b34f6e6ed4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "스트림/람다식.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a1bc774f078f7f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "마크다운/마크다운.md",
+                "file": "스트림/메소드 참조.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "스트림/람다식.md",
+                "file": "스트림/메소드 참조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "스트림/람다식.md",
+                "file": "스트림/메소드 참조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "스트림/람다식.md"
+                "file": "스트림/메소드 참조.md"
               }
             }
           }
@@ -166,20 +154,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d8a6a52aedac925d",
+  "active": "ab8542b34f6e6ed4",
   "lastOpenFiles": [
-    "마크다운/마크다운.md",
-    "스트림/함수형 인터페이스.md",
-    "스트림/람다식.md",
-    "Paste.md",
-    "Pasted image 20231028173905.png",
-    "Pasted image 20231028173841.png",
-    "스트림/메소드 참조.md",
     "스트림/스트림.md",
+    "스트림/람다식.md",
+    "스트림/메소드 참조.md",
+    "스트림/제네릭.md",
+    "스트림/함수형 인터페이스.md",
+    "스트림/context.mdb",
+    "Pasted image 20231028173905.png",
+    "마크다운/마크다운.md",
+    "Pasted image 20231028173841.png",
+    "Paste.md",
     "함수형~~ 인터페이스.md",
     "important.md",
-    "스트림/context.mdb",
-    "스트림/제네릭.md",
     "스트림/.md",
     "마크다운/옵시디언 사용법.md",
     "마크다운",
