@@ -16,13 +16,13 @@
             }
           },
           {
-            "id": "991a0456a762c72e",
+            "id": "128a2de15a0cf059",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "무제 파일.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -163,13 +163,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "991a0456a762c72e",
+  "active": "128a2de15a0cf059",
   "lastOpenFiles": [
     "무제 파일.md",
+    ".md",
+    "무제 폴더 1",
+    "무제 폴더 1/무제 폴더",
     "무제 파일 4.md",
     "1.md",
     "2.md",
-    "무제 파일 1.md",
     "무제 파일 3.md",
     "무제 파일 2.md",
     "Context/spacesLastSync.log",
