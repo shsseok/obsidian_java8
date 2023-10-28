@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "스트림/제네릭.md",
+                "file": "java8/스트림.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "스트림/제네릭.md",
+                "file": "java8/스트림.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "스트림/제네릭.md",
+                "file": "java8/스트림.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "스트림/제네릭.md"
+                "file": "java8/스트림.md"
               }
             }
           }
@@ -156,25 +156,27 @@
   },
   "active": "95cf956c3a939eb2",
   "lastOpenFiles": [
-    "스트림/스트림.md",
-    "스트림/메소드 참조.md",
-    "스트림/제네릭.md",
-    "스트림/람다식.md",
-    "스트림/Function 패키지.md",
-    "스트림/함수형 인터페이스.md",
+    "java8/제네릭.md",
+    "java8/스트림.md",
+    "java8/메소드 참조.md",
+    "java8/무제 폴더",
+    "java8/함수형 인터페이스.md",
+    "java8/context.mdb",
+    "java8/java8.md",
+    "java8/Function 패키지.md",
+    "Pasted image 20231028173905.png",
     "무제 파일.canvas",
-    "스트림/context.mdb",
+    "java8/람다식.md",
     "마크다운/마크다운.md",
     "마크다운/옵시디언 사용법.md",
     "무제 파일 1.canvas",
-    "Pasted image 20231028173905.png",
     "Pasted image 20231028173841.png",
     "Paste.md",
     "함수형~~ 인터페이스.md",
     "important.md",
     "스트림/.md",
     "마크다운",
-    "스트림",
+    "java8",
     ".md",
     "무제 폴더 1",
     "무제 폴더 1/무제 폴더",
