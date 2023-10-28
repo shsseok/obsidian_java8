@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9d73bb9b4159a153",
+        "id": "1972034bb5393bc7",
         "type": "tabs",
         "children": [
           {
-            "id": "acf6cce3383f20f4",
+            "id": "962c1751492a2334",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "스트림/제네릭.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ac58a5c9a22b738",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "마크다운/마크다운.md",
+                "file": "스트림/람다식.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "마크다운/마크다운.md",
+                "file": "스트림/람다식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "마크다운/마크다운.md",
+                "file": "스트림/람다식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "마크다운/마크다운.md"
+                "file": "스트림/람다식.md"
               }
             }
           }
@@ -167,13 +154,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7ac58a5c9a22b738",
+  "active": "962c1751492a2334",
   "lastOpenFiles": [
-    "스트림/람다식.md",
-    "스트림/메소드 참조.md",
-    "스트림/제네릭.md",
-    "스트림/함수형 인터페이스.md",
     "마크다운/마크다운.md",
+    "스트림/함수형 인터페이스.md",
+    "스트림/람다식.md",
+    "함수형~~ 인터페이스.md",
+    "스트림/제네릭.md",
+    "스트림/메소드 참조.md",
+    "스트림/context.mdb",
     "스트림/.md",
     "마크다운/옵시디언 사용법.md",
     "마크다운",
