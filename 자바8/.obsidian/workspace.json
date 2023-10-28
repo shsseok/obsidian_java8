@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "스트림/함수형 인터페이스.md",
+                "file": "마크다운/마크다운.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "스트림/함수형 인터페이스.md",
+                "file": "스트림/람다식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "스트림/함수형 인터페이스.md",
+                "file": "스트림/람다식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "스트림/함수형 인터페이스.md"
+                "file": "스트림/람다식.md"
               }
             }
           }
@@ -167,16 +166,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2a1bc774f078f7f7",
+  "active": "d8a6a52aedac925d",
   "lastOpenFiles": [
+    "마크다운/마크다운.md",
+    "스트림/함수형 인터페이스.md",
     "스트림/람다식.md",
     "Paste.md",
-    "스트림/함수형 인터페이스.md",
     "Pasted image 20231028173905.png",
     "Pasted image 20231028173841.png",
     "스트림/메소드 참조.md",
     "스트림/스트림.md",
-    "마크다운/마크다운.md",
     "함수형~~ 인터페이스.md",
     "important.md",
     "스트림/context.mdb",
