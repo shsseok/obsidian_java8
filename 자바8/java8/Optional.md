@@ -15,10 +15,13 @@ T타입 객체의 래퍼클래스
 3. null을 다루게 된다면 null 체크를 한다 --> 이느 if 문 남발 코드 지저분 -> 방지
 
 ---
-
 >[!example]
+>str 0x100 -> "abc"
+optVal 0x200 -> 0x100
 >String str="abc"
   Optional<String> optVal = Optional.of(str);
-str 0x100 -> "abc"
-optVal 0x200 -> 0x100 
--
+
+---
+## Optional 객
+  
+ 
