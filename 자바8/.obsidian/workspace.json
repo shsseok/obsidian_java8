@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -156,6 +157,8 @@
   },
   "active": "95cf956c3a939eb2",
   "lastOpenFiles": [
+    "Context/spacesLastSync.log",
+    "Context",
     "java8/메소드 참조.md",
     "java8/스트림.md",
     "java8/제네릭.md",
@@ -184,8 +187,6 @@
     "1.md",
     "2.md",
     "무제 파일 3.md",
-    "무제 파일 2.md",
-    "Context/spacesLastSync.log",
-    "Context"
+    "무제 파일 2.md"
   ]
 }
