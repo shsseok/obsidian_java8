@@ -18,6 +18,7 @@ T타입 객체의 래퍼클래스
 
 >[!example]
 >String str="abc"
->Optional<String> optVal = Optional.of(str);
-str 0x100 -> 
-
+  Optional<String> optVal = Optional.of(str);
+str 0x100 -> "abc"
+optVal 0x200 -> 0x100 
+-
