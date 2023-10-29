@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java8/스트림.md",
+                "file": "java8/스트림 만들기.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java8/스트림 만들기.md",
+                "file": "마크다운/마크다운.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,19 +179,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b81ca098f5d86a2d",
+  "active": "2839acaba7005ee4",
   "lastOpenFiles": [
+    "java8/스트림.md",
+    "마크다운/마크다운.md",
+    "java8/스트림 만들기.md",
     "Pasted image 20231029151254.png",
     "Pasted image 20231029151235.png",
-    "java8/스트림.md",
-    "java8/스트림 만들기.md",
     "Context/spacesLastSync.log",
     "Context",
     "java8/메소드 참조.md",
     "java8/제네릭.md",
     "java8/context.mdb",
     "java8/함수형 인터페이스.md",
-    "마크다운/마크다운.md",
     "java8/무제 폴더",
     "java8/java8.md",
     "java8/Function 패키지.md",
