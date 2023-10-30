@@ -43,4 +43,5 @@ String str2=optional1.orElseGet(()->new String()); //--Suplier 람다식 사용�
 System.out.println(str2);
 
 ```
-
+//TODO
+위의 두개의 명확한 차이 공부하기 결국에는 두개다 NULL일때 어떤식으로 처리할지를 결정하는건데  orElse는 파라미터의 기본값을 넘겨주는거고 orElseGet도 결국 Supplier를 통해 값을 넘겨주는건데 무슨 차이인가?
