@@ -33,7 +33,14 @@ Optional<String> optional4=Optional.ofNullable(null);
 Optional<String> optional5=Optional.empty();
 ```  
 Optional을 초기화 할때는 빈 옵셔널로 초기화 하자
-
-
 ---
+
+
+```java 
+String str1=optional4.orElse("dddd"); //Null일 때는 무엇을 가지고 올래? (파라미터 값)  
+System.out.println(str1);  
+String str2=optional1.orElseGet(()->new String()); //--Suplier 람다식 사용가능  
+System.out.println(str2);
+
+```
 
