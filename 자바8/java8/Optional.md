@@ -45,3 +45,10 @@ System.out.println(str2);
 ```
 //TODO
 위의 두개의 명확한 차이 공부하기 결국에는 두개다 NULL일때 어떤식으로 처리할지를 결정하는건데  orElse는 파라미터의 기본값을 넘겨주는거고 orElseGet도 결국 Supplier를 통해 값을 넘겨주는건데 무슨 차이인가?
+
+
+---
+
+```java
+optional4.ifPresent(System.out::println); //널이 아닐떄만 안에 작업을 수행하도록한다. null이라면 아무일도안한다.
+```
