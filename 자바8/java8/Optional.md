@@ -21,7 +21,7 @@ optVal 0x200 -> 0x100
 >String str="abc"
   Optional<String> optVal = Optional.of(str);
 
----
-## Optional 객
+## Optional 객체 생성 하는 법
+
   
  
