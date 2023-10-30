@@ -23,5 +23,17 @@ optVal 0x200 -> 0x100
 
 ## Optional 객체 생성 하는 법
 
+```java
+String str="abc";  
+Optional<String> optional1 = Optional.of(str);  
+Optional<String> optional2 = Optional.of("abc");  
+//Optional<String> optional3=Optional.of(null);  
+Optional<String> optional4=Optional.ofNullable(null);  
   
- 
+Optional<String> optional5=Optional.empty();
+```  
+Optional을 초기화 할때는 빈 옵셔널로 초기화 하자
+
+
+---
+
