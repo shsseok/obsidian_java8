@@ -55,3 +55,19 @@ real response:
 ```java
 optional4.ifPresent(System.out::println); //널이 아닐떄만 안에 작업을 수행하도록한다. null이라면 아무일도안한다.
 ```
+
+---
+
+``` java
+int result2=Optional.of("")  
+.filter(x->x.length()>0)  
+.map(Integer::parseInt)  
+.orElse(-1);
+```
+의문점
+왜 빈문자열인데  -1이 출력이  되는거지?
+결국 orElse도 null이어야지 -1출력이 된다 했는데.. --> 내부로직 확인
+filter 부분에서
+return predicate.test(value) ? this : empty(); 여기서 걸리게 된다 그렇게 되면 empty() 함수를 부르게 되고
+/
+이 부분에서 빈 문자열 로 Optional을 생성한다. 그러면 필터에서 걸리게 된다. 
