@@ -12,7 +12,8 @@ T타입 객체의 래퍼클래스
 ## 왜 쓰는가? 
 1. null을 직접 다루는 것은 위험하다 (NullpointEx) 발생 방지
 2. 간접적으로 null을 다루기 위해서
-3. null을 다루게 된다면 null 체크를 한다 --> 이느 if 문 남발 코드 지저분 -> 방지
+3. null을 다루게 된다면 null 체크를 한다 --> 이느 if 문 남발 코드 지저분 -> 방지 
+4. 다양한 메소드들을 제공 null체크 방지 관련
 
 ---
 >[!example]
@@ -45,6 +46,8 @@ System.out.println(str2);
 ```
 //TODO
 위의 두개의 명확한 차이 공부하기 결국에는 두개다 NULL일때 어떤식으로 처리할지를 결정하는건데  orElse는 파라미터의 기본값을 넘겨주는거고 orElseGet도 결국 Supplier를 통해 값을 넘겨주는건데 무슨 차이인가?
+My think:활용도적인 차이인거 같다.
+real response:
 
 
 ---
