@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "09ef54f813d6e071",
+        "id": "e6b9c8e51fed8ece",
         "type": "tabs",
         "children": [
           {
-            "id": "95cf956c3a939eb2",
+            "id": "c4ff6d6d267b8ac1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cc9b6e1d0e8aa4e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java8/람다식.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf49df216a0d15df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java8/Optional.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b81ca098f5d86a2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "마크다운/마크다운.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java8/Optional.md",
+                "file": "java8/스트림 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java8/Optional.md",
+                "file": "java8/스트림 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java8/Optional.md"
+                "file": "java8/스트림 만들기.md"
               }
             }
           }
@@ -192,16 +154,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "bf49df216a0d15df",
+  "active": "c4ff6d6d267b8ac1",
   "lastOpenFiles": [
-    "java8/래퍼 클래스와 넘버 클래스.md",
+    "java8/스트림 만들기.md",
     "java8/람다식.md",
-    "java8/스트림.md",
     "마크다운/마크다운.md",
     "java8/Optional.md",
+    "java8/래퍼 클래스와 넘버 클래스.md",
+    "java8/스트림.md",
     "Pasted image 20231029233303.png",
     "java8/Function 패키지.md",
-    "java8/스트림 만들기.md",
     "java8/java8.md",
     "java8/메소드 참조.md",
     "Pasted image 20231029151254.png",

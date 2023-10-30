@@ -69,5 +69,25 @@ int result2=Optional.of("")
 결국 orElse도 null이어야지 -1출력이 된다 했는데.. --> 내부로직 확인
 filter 부분에서
 return predicate.test(value) ? this : empty(); 여기서 걸리게 된다 그렇게 되면 empty() 함수를 부르게 되고
-/
+
+```java
+public static<T> Optional<T> empty() {   
+Optional<T> t = (Optional<T>) EMPTY;  
+return t;  
+}
+```
+empty함수에서 EMPTY로 가본다 -->
+
+```java
+private static final Optional<?> EMPTY = new Optional<>();
+```
+엥? 빈객체가 생성이 되는데? -->
+
+```java
+private Optional() {  
+this.value = null;  
+}
+```
+다시 생성자 초기화를 통해 value를 null값으로 세팅한다.  궁금증 해결
+
 이 부분에서 빈 문자열 로 Optional을 생성한다. 그러면 필터에서 걸리게 된다. 
