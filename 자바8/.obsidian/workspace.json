@@ -11,8 +11,12 @@
             "id": "3566bf6284bd8fab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "java8/Optional.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "java8/Optional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "java8/Optional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.canvas"
+                "file": "java8/Optional.md"
               }
             }
           }
@@ -148,12 +154,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "97106a7be66e5a17",
+  "active": "3566bf6284bd8fab",
   "lastOpenFiles": [
-    "java8/스트림 만들기와 중간연산 최종연산.md",
-    "무제 파일.canvas",
-    "java8/java8.md",
+    "무제 파일.md",
     "java8/Optional.md",
+    "래퍼 클래스.md",
+    "무제 파일.canvas",
+    "무제 폴더",
+    "java8/스트림 만들기와 중간연산 최종연산.md",
+    "java8/java8.md",
     "마크다운/마크다운.md",
     "java8/함수형 인터페이스.md",
     "java8/context.mdb",
