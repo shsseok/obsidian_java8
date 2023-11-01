@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java8/Optional.md",
+                "file": "java8/스트림 만들기와 중간연산 최종연산.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java8/Optional.md",
+                "file": "java8/스트림 만들기와 중간연산 최종연산.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java8/Optional.md",
+                "file": "java8/스트림 만들기와 중간연산 최종연산.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java8/Optional.md"
+                "file": "java8/스트림 만들기와 중간연산 최종연산.md"
               }
             }
           }
@@ -156,12 +156,13 @@
   },
   "active": "c4ff6d6d267b8ac1",
   "lastOpenFiles": [
-    "java8/스트림 만들기.md",
+    "java8/제네릭.md",
+    "java8/Optional.md",
+    "java8/스트림 만들기와 중간연산 최종연산.md",
+    "java8/스트림.md",
     "java8/람다식.md",
     "마크다운/마크다운.md",
-    "java8/Optional.md",
     "java8/래퍼 클래스와 넘버 클래스.md",
-    "java8/스트림.md",
     "Pasted image 20231029233303.png",
     "java8/Function 패키지.md",
     "java8/java8.md",
@@ -170,7 +171,6 @@
     "Pasted image 20231029151235.png",
     "Context/spacesLastSync.log",
     "Context",
-    "java8/제네릭.md",
     "java8/context.mdb",
     "java8/함수형 인터페이스.md",
     "java8/무제 폴더",
