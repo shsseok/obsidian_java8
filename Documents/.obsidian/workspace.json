@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cb94348e11154137",
+        "id": "789e525f51fed504",
         "type": "tabs",
         "children": [
           {
-            "id": "a274909dfe5fcbd5",
+            "id": "ab9d232ef6d3934e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -69,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,8 +146,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a274909dfe5fcbd5",
+  "active": "ab9d232ef6d3934e",
   "lastOpenFiles": [
+    "java8/람다식.md",
     "무제 파일.canvas",
     "Context/spacesLastSync.log",
     "Context",
@@ -161,7 +161,6 @@
     "Spring",
     "java8/스트림 만들기와 중간연산 최종연산.md",
     "java8/Optional.md",
-    "java8/람다식.md",
     "java8/image/Pasted image 20231101233740.png",
     "java8/메소드 참조.md",
     "java8/래퍼 클래스와 넘버 클래스.md",
