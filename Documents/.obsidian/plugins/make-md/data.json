@@ -44,7 +44,7 @@
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
-    "자바8"
+    "Documents"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -69,7 +69,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1698849299754,
+  "spacesAutoBackupLast": 1698849492544,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
