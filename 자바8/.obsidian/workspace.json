@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e9ccdae1df81ef8a",
+        "id": "e13e30e3684783ef",
         "type": "tabs",
         "children": [
           {
-            "id": "254e577d88ba82cf",
+            "id": "3566bf6284bd8fab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java8/스트림 만들기와 중간연산 최종연산.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java8/스트림 만들기와 중간연산 최종연산.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java8/스트림 만들기와 중간연산 최종연산.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java8/스트림 만들기와 중간연산 최종연산.md"
+                "file": "무제 파일.canvas"
               }
             }
           }
@@ -154,12 +148,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "254e577d88ba82cf",
+  "active": "97106a7be66e5a17",
   "lastOpenFiles": [
+    "java8/스트림 만들기와 중간연산 최종연산.md",
+    "무제 파일.canvas",
     "java8/java8.md",
     "java8/Optional.md",
     "마크다운/마크다운.md",
-    "java8/스트림 만들기와 중간연산 최종연산.md",
     "java8/함수형 인터페이스.md",
     "java8/context.mdb",
     "java8/제네릭.md",
@@ -175,7 +170,6 @@
     "Context",
     "java8/무제 폴더",
     "Pasted image 20231028173905.png",
-    "무제 파일.canvas",
     "마크다운/옵시디언 사용법.md",
     "무제 파일 1.canvas",
     "Pasted image 20231028173841.png",
