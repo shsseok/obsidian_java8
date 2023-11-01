@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java8/Optional.md",
+                "file": "옵시디언 사용법/옵시디언 사용법 링크.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java8/Optional.md",
+                "file": "옵시디언 사용법/옵시디언 사용법 링크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java8/Optional.md",
+                "file": "옵시디언 사용법/옵시디언 사용법 링크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java8/Optional.md"
+                "file": "옵시디언 사용법/옵시디언 사용법 링크.md"
               }
             }
           }
@@ -157,10 +157,15 @@
   "active": "3566bf6284bd8fab",
   "lastOpenFiles": [
     "무제 파일.md",
+    "옵시디언 사용법/옵시디언 사용법 링크.md",
+    "옵시디언 사용법",
+    "Pasted image 20231028173905.png",
+    "Pasted image 20231029151235.png",
+    "Pasted image 20231029233303.png",
+    "Pasted image 20231029151254.png",
     "java8/Optional.md",
     "래퍼 클래스.md",
     "무제 파일.canvas",
-    "무제 폴더",
     "java8/스트림 만들기와 중간연산 최종연산.md",
     "java8/java8.md",
     "마크다운/마크다운.md",
@@ -170,15 +175,11 @@
     "java8/스트림.md",
     "java8/래퍼 클래스와 넘버 클래스.md",
     "java8/람다식.md",
-    "Pasted image 20231029233303.png",
     "java8/Function 패키지.md",
     "java8/메소드 참조.md",
-    "Pasted image 20231029151254.png",
-    "Pasted image 20231029151235.png",
     "Context/spacesLastSync.log",
     "Context",
     "java8/무제 폴더",
-    "Pasted image 20231028173905.png",
     "마크다운/옵시디언 사용법.md",
     "무제 파일 1.canvas",
     "Pasted image 20231028173841.png",
