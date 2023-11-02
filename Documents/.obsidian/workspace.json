@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/스프링 로그인 관련/로그인 처리.md",
+                "file": "Spring/스프링의 핵심 원리/컴포넌트 스캔.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/스프링 로그인 관련/로그인 처리.md",
+                "file": "Spring/스프링의 핵심 원리/컴포넌트 스캔.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/스프링 로그인 관련/로그인 처리.md",
+                "file": "Spring/스프링의 핵심 원리/컴포넌트 스캔.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/스프링 로그인 관련/로그인 처리.md"
+                "file": "Spring/스프링의 핵심 원리/컴포넌트 스캔.md"
               }
             }
           }
@@ -156,15 +156,16 @@
   },
   "active": "ab9d232ef6d3934e",
   "lastOpenFiles": [
-    "무제 파일.canvas",
     "Spring/스프링 로그인 관련/로그인 처리.md",
+    "Spring/스프링의 핵심 원리/컴포넌트 스캔.md",
+    "무제 파일.canvas",
     "java8/람다식.md",
     "Context/spacesLastSync.log",
     "Context",
     "Spring/무제 폴더 3",
     "Spring/무제 폴더 2",
     "Spring/무제 폴더 1",
-    "Spring/무제 폴더",
+    "Spring/스프링의 핵심 원리",
     "Spring/스프링 로그인 관련",
     "Spring/image",
     "Spring",
