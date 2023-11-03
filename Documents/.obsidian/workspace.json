@@ -11,8 +11,12 @@
             "id": "24c54ebc4da25379",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spring/스프링 MVC/프론트 컨트롤러.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spring/스프링 MVC/프론트 컨트롤러.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spring/스프링 MVC/프론트 컨트롤러.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spring/스프링 MVC/프론트 컨트롤러.md"
+              }
             }
           }
         ]
@@ -146,11 +154,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "97106a7be66e5a17",
+  "active": "24c54ebc4da25379",
   "lastOpenFiles": [
+    "Spring/스프링 MVC/image/Pasted image 20231103230545.png",
+    "Spring/스프링 MVC/image/Pasted image 20231103230513.png",
+    "Spring/스프링 MVC/image",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
-    "Spring/스프링 MVC/무제 파일.md",
+    "Spring/스프링 MVC/프론트 컨트롤러.md",
     "Spring/스프링의 핵심 원리/빈 스코프.md",
     "Spring/스프링의 핵심 원리/빈 생명주기 콜백.md",
     "Spring/스프링의 핵심 원리/의존관계 자동 주입.md",
@@ -181,7 +192,6 @@
     "java8/제네릭.md",
     "java8/Function 패키지.md",
     "java8/java8.md",
-    "java8/context.mdb",
     "옵시디언 사용법/옵시디언 사용법 링크.md",
     "무제 파일.md",
     "래퍼 클래스.md",
