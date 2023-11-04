@@ -18,10 +18,25 @@ logging.level.root=info
 밑에는 hello.springmvc 하위에 모두 로그를 작성.
 logging.level.hello.springmvc=debug
 
-@RestController
+## @RestController
 
 @Controller 는 반환 값이 String 이면 뷰 이름으로 인식된다. 그래서 뷰를 찾고 뷰가 랜더링 다. 
 @RestController 는 반환 값으로 뷰를 찾는 것이 아니라, HTTP 메시지 바디에 바로 입력한다.
 
-@RequestMapping
+## @RequestMapping
 
+대부분의 속성을 배열[] 로 제공하므로 다중 설정이 가능하다. {"/hello-basic", "/hello-go"}
+
+## @PathVariable(경로 변수)
+
+사용 시점
+
+```java
+@GetMapping("/mapping/users/{userId}/orders/{orderId}") 
+public String mappingPath(@PathVariable String userId, @PathVariable Long orderId) { 
+	log.info("mappingPath userId={}, orderId={}", userId, orderId); 				return "ok";
+}
+```
+
+변수명이 같으면 생략 가능 
+@PathVariable("userId") String userId -> @PathVariable userId
