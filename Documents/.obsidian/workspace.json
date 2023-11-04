@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "95fdc04c2586299c",
+        "id": "4e61e4051a0ff98b",
         "type": "tabs",
         "children": [
           {
-            "id": "24c54ebc4da25379",
+            "id": "e2019570c76cd41f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/스프링 MVC/프론트 컨트롤러.md",
+                "file": "Spring/스프링 MVC/스프링 MVC의 실제 구조 이해.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/스프링 MVC/프론트 컨트롤러.md",
+                "file": "Spring/스프링 MVC/스프링 MVC의 실제 구조 이해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/스프링 MVC/프론트 컨트롤러.md",
+                "file": "Spring/스프링 MVC/스프링 MVC의 실제 구조 이해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/스프링 MVC/프론트 컨트롤러.md"
+                "file": "Spring/스프링 MVC/스프링 MVC의 실제 구조 이해.md"
               }
             }
           }
@@ -155,13 +154,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "24c54ebc4da25379",
+  "active": "e2019570c76cd41f",
   "lastOpenFiles": [
+    "Spring/스프링 MVC/프론트 컨트롤러.md",
+    "Spring/스프링 MVC/스프링 MVC의 실제 구조 이해.md",
+    "무제 파일.canvas",
     "Spring/스프링 MVC/image/Pasted image 20231104201330.png",
     "Spring/스프링 MVC/image/Pasted image 20231104005730.png",
     "무제 파일 1.canvas",
-    "무제 파일.canvas",
-    "Spring/스프링 MVC/프론트 컨트롤러.md",
     "Spring/스프링 MVC/image/Pasted image 20231103234901.png",
     "Spring/스프링 MVC/image/Pasted image 20231103234851.png",
     "Spring/스프링 MVC/image/Pasted image 20231103234825.png",
@@ -190,7 +190,6 @@
     "Spring",
     "java8/스트림 만들기와 중간연산 최종연산.md",
     "java8/Optional.md",
-    "java8/image/Pasted image 20231101233740.png",
     "java8/메소드 참조.md",
     "java8/래퍼 클래스와 넘버 클래스.md",
     "java8/스트림.md",
