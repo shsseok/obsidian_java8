@@ -1,0 +1,27 @@
+로그 설정하기
+
+@Slf4j 
+롬복 사용 
+
+로그 레벨 설정
+LEVEL: TRACE > DEBUG > INFO > WARN > ERROR
+
+application.properties
+여기서 설정한다.
+
+만약 전체 로그 레벨을 설정하고 싶다면
+
+logging.level.root=info
+
+패키지명에 따라
+
+밑에는 hello.springmvc 하위에 모두 로그를 작성.
+logging.level.hello.springmvc=debug
+
+@RestController
+
+@Controller 는 반환 값이 String 이면 뷰 이름으로 인식된다. 그래서 뷰를 찾고 뷰가 랜더링 다. 
+@RestController 는 반환 값으로 뷰를 찾는 것이 아니라, HTTP 메시지 바디에 바로 입력한다.
+
+@RequestMapping
+

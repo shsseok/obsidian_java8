@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/스프링 MVC/스프링 MVC의 실제 구조 이해.md",
+                "file": "Spring/스프링 MVC/스프링 MVC의 기본적인 기능들.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/스프링 MVC/스프링 MVC의 실제 구조 이해.md",
+                "file": "Spring/스프링 MVC/스프링 MVC의 기본적인 기능들.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/스프링 MVC/스프링 MVC의 실제 구조 이해.md",
+                "file": "Spring/스프링 MVC/스프링 MVC의 기본적인 기능들.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/스프링 MVC/스프링 MVC의 실제 구조 이해.md"
+                "file": "Spring/스프링 MVC/스프링 MVC의 기본적인 기능들.md"
               }
             }
           }
@@ -156,8 +156,9 @@
   },
   "active": "e2019570c76cd41f",
   "lastOpenFiles": [
-    "Spring/스프링 MVC/프론트 컨트롤러.md",
     "Spring/스프링 MVC/스프링 MVC의 실제 구조 이해.md",
+    "Spring/스프링 MVC/스프링 MVC의 기본적인 기능들.md",
+    "Spring/스프링 MVC/프론트 컨트롤러.md",
     "무제 파일.canvas",
     "Spring/스프링 MVC/image/Pasted image 20231104201330.png",
     "Spring/스프링 MVC/image/Pasted image 20231104005730.png",
@@ -203,7 +204,6 @@
     "마크다운/옵시디언 사용법.md",
     "Paste.md",
     "함수형~~ 인터페이스.md",
-    "important.md",
-    "스트림/.md"
+    "important.md"
   ]
 }
