@@ -31,6 +31,8 @@ logging.level.hello.springmvc=debug
 
 사용 시점
 
+URL 경로를 템플릿화 할 수 있는데, @PathVariable 을 사용하면 매칭 되는 부분을 편리하게 조회할 수 있다.
+
 ```java
 @GetMapping("/mapping/users/{userId}/orders/{orderId}") 
 public String mappingPath(@PathVariable String userId, @PathVariable Long orderId) { 
@@ -40,3 +42,4 @@ public String mappingPath(@PathVariable String userId, @PathVariable Long orderI
 
 변수명이 같으면 생략 가능 
 @PathVariable("userId") String userId -> @PathVariable userId
+
