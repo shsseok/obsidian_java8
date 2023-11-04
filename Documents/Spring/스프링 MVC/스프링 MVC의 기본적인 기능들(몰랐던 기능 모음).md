@@ -43,3 +43,16 @@ public String mappingPath(@PathVariable String userId, @PathVariable Long orderI
 변수명이 같으면 생략 가능 
 @PathVariable("userId") String userId -> @PathVariable userId
 
+## @RequiredArgsConstructor --> 생성자 주입
+@RequiredArgsConstructor final 이 붙은 멤버변수만 사용해서 생성자를 자동으로 만들어준다. 
+
+```JAVA
+public BasicItemController(ItemRepository itemRepository) 
+{
+	this.itemRepository = itemRepository; 
+} 
+```
+
+이렇게 생성자가 딱 1개만 있으면 스프링이 해당 생성자에 @Autowired 로 의존관계를 주입해준다. 따라서 final 키워드를 빼면 안된다!, 그러면 ItemRepository 의존관계 주입이 안된다.
+
+이점: 새로운 필드를 추가할 때 다시 생성자를 만드는 번거로움을 없앨 수 있다.
