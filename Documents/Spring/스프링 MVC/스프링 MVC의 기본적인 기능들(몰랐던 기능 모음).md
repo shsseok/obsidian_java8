@@ -56,3 +56,8 @@ public BasicItemController(ItemRepository itemRepository)
 이렇게 생성자가 딱 1개만 있으면 스프링이 해당 생성자에 @Autowired 로 의존관계를 주입해준다. 따라서 final 키워드를 빼면 안된다!, 그러면 ItemRepository 의존관계 주입이 안된다.
 
 이점: 새로운 필드를 추가할 때 다시 생성자를 만드는 번거로움을 없앨 수 있다.
+
+## @CookieValue
+@CookieValue를 이용하면 Cookie 객체를 받을 수 있다.
+
+required=false
