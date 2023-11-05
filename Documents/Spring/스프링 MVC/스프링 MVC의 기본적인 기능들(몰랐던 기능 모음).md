@@ -67,6 +67,7 @@ public BasicItemController(ItemRepository itemRepository)
 	예를 들어서 세션 체크로직이 있어야할 때 세션 을 꺼내서 
 	HttpSession session 파라미터로 받아서
 	session을 꺼내서 이런식으로 복잡한 과정을 저걸로 통합해준다.
+	참고로 세션을 생성하지 않는다 이 어노테이션은
 
 ```java
 public String homeLoginV3Spring(  
