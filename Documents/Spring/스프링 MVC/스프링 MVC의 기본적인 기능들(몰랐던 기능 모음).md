@@ -60,4 +60,13 @@ public BasicItemController(ItemRepository itemRepository)
 ## @CookieValue
 @CookieValue를 이용하면 Cookie 객체를 받을 수 있다.
 
-required=false
+
+
+## Spring Controller required 속성
+ 
+ 필수가 아닌 파라미터인 경우, required 속성 값을 주어 false로 지정해주면 된다.
+ required 속성 값을 따로 작성하지 않을 경우, 기본 값은 true로 지정되어 있다.
+
+```java
+ @RequestParam(value="query", required=false) String query
+```
