@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/스프링 검증 유효성 검사 관련/BindingResult.md",
+                "file": "Spring/스프링 로그인 관련/로그인 처리.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/스프링 검증 유효성 검사 관련/BindingResult.md",
+                "file": "Spring/스프링 로그인 관련/로그인 처리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/스프링 검증 유효성 검사 관련/BindingResult.md",
+                "file": "Spring/스프링 로그인 관련/로그인 처리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/스프링 검증 유효성 검사 관련/BindingResult.md"
+                "file": "Spring/스프링 로그인 관련/로그인 처리.md"
               }
             }
           }
@@ -157,15 +156,15 @@
   },
   "active": "8e1589969397db9e",
   "lastOpenFiles": [
-    "Spring/스프링 로그인 관련/로그인 처리.md",
+    "무제 파일 1.canvas",
     "Spring/스프링 검증 유효성 검사 관련/BindingResult.md",
+    "Spring/스프링 로그인 관련/로그인 처리.md",
     "Spring/스프링 MVC/스프링 MVC의 기본적인 기능들(몰랐던 기능 모음).md",
     "Spring/스프링 MVC/스프링 MVC의 실제 구조 이해.md",
     "Spring/스프링 MVC/프론트 컨트롤러.md",
     "무제 파일.canvas",
     "Spring/스프링 MVC/image/Pasted image 20231104201330.png",
     "Spring/스프링 MVC/image/Pasted image 20231104005730.png",
-    "무제 파일 1.canvas",
     "Spring/스프링 MVC/image/Pasted image 20231103234901.png",
     "Spring/스프링 MVC/image/Pasted image 20231103234851.png",
     "Spring/스프링 MVC/image/Pasted image 20231103234825.png",
@@ -204,7 +203,6 @@
     "무제 파일.md",
     "래퍼 클래스.md",
     "마크다운/옵시디언 사용법.md",
-    "Paste.md",
-    "함수형~~ 인터페이스.md"
+    "Paste.md"
   ]
 }
