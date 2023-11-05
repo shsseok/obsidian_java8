@@ -62,6 +62,23 @@ public BasicItemController(ItemRepository itemRepository)
 
 
 
+## @SessionAttribute
+ 세션 데이터에 접근할 때 사용한다.
+	예를 들어서 세션 체크로직이 있어야할 때 세션 을 꺼내서 
+	HttpSession session 파라미터로 받아서
+	session을 꺼내서 이런식으로 복잡한 과정을 저걸로 통합해준다.
+
+```java
+public String homeLoginV3Spring(  
+@SessionAttribute(name = SessionConst.LOGIN_MEMBER, required = false) Member loginMember, Model model) {  
+//세션에 회원 데이터가 없으면 homeif (loginMember == null) {  
+return "home";  
+}    
+//세션이 유지되면 로그인으로 이동  
+model.addAttribute("member", loginMember);  
+return "loginHome";  
+}
+```
 ## Spring Controller required 속성
  
  필수가 아닌 파라미터인 경우, required 속성 값을 주어 false로 지정해주면 된다.
