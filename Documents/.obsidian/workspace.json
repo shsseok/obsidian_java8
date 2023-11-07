@@ -157,6 +157,8 @@
   },
   "active": "b54e4327157a3649",
   "lastOpenFiles": [
+    "Spring/스프링 로그인 관련/image/Pasted image 20231108000933.png",
+    "Spring/스프링 로그인 관련/image",
     "Spring/스프링 로그인 관련/로그인 처리.md",
     "Spring/스프링 로그인 관련/필터,인터셉터.md",
     "Spring/스프링 예외처리와 오류 페이지/서블릿 예외처리 관련.md",
@@ -195,7 +197,6 @@
     "Spring/HTTP 관련",
     "Spring/스프링의 핵심 원리",
     "Spring/스프링 로그인 관련",
-    "Spring/image",
     "java8/스트림 만들기와 중간연산 최종연산.md",
     "java8/Optional.md",
     "java8/메소드 참조.md",
@@ -205,7 +206,6 @@
     "java8/제네릭.md",
     "java8/Function 패키지.md",
     "java8/java8.md",
-    "옵시디언 사용법/옵시디언 사용법 링크.md",
-    "무제 파일.md"
+    "옵시디언 사용법/옵시디언 사용법 링크.md"
   ]
 }
