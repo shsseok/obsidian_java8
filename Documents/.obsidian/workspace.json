@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/스프링 예외처리와 오류 페이지/서블릿 예외처리 관련.md",
+                "file": "데이터 접근 기술/JPA/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/스프링 예외처리와 오류 페이지/서블릿 예외처리 관련.md",
+                "file": "데이터 접근 기술/JPA/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/스프링 예외처리와 오류 페이지/서블릿 예외처리 관련.md",
+                "file": "데이터 접근 기술/JPA/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/스프링 예외처리와 오류 페이지/서블릿 예외처리 관련.md"
+                "file": "데이터 접근 기술/JPA/무제 파일.md"
               }
             }
           }
@@ -157,6 +156,11 @@
   },
   "active": "b54e4327157a3649",
   "lastOpenFiles": [
+    "Spring/스프링 예외처리와 오류 페이지/서블릿 예외처리 관련.md",
+    "데이터 접근 기술/JPA/무제 파일.md",
+    "데이터 접근 기술/JPA",
+    "무제 폴더",
+    "데이터 접근 기술",
     "Spring/스프링 로그인 관련/필터,인터셉터.md",
     "Spring/어노테이션 만들기/ArgumentResolver.md",
     "Spring/어노테이션 만들기",
@@ -164,7 +168,6 @@
     "Spring/스프링 로그인 관련/image/Pasted image 20231108000933.png",
     "Spring/스프링 로그인 관련/image",
     "Spring/스프링 로그인 관련/로그인 처리.md",
-    "Spring/스프링 예외처리와 오류 페이지/서블릿 예외처리 관련.md",
     "Spring/스프링 MVC/스프링 MVC의 기본적인 기능들(몰랐던 기능 모음).md",
     "Spring/스프링 MVC/스프링 MVC의 실제 구조 이해.md",
     "Spring/스프링 MVC/프론트 컨트롤러.md",
@@ -194,9 +197,6 @@
     "Context/spacesLastSync.log",
     "Context",
     "Spring/스프링 MVC",
-    "Spring/스프링 검증 유효성 검사 관련",
-    "Spring/HTTP 관련",
-    "Spring/스프링의 핵심 원리",
     "java8/스트림 만들기와 중간연산 최종연산.md",
     "java8/Optional.md",
     "java8/메소드 참조.md",
@@ -205,7 +205,6 @@
     "java8/함수형 인터페이스.md",
     "java8/제네릭.md",
     "java8/Function 패키지.md",
-    "java8/java8.md",
-    "옵시디언 사용법/옵시디언 사용법 링크.md"
+    "java8/java8.md"
   ]
 }
