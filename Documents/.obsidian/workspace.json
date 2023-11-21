@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터 접근 기술/JPA/무제 파일.md",
+                "file": "데이터 접근 기술/JPA/영속성 관리.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터 접근 기술/JPA/무제 파일.md",
+                "file": "데이터 접근 기술/JPA/영속성 관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터 접근 기술/JPA/무제 파일.md",
+                "file": "데이터 접근 기술/JPA/영속성 관리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터 접근 기술/JPA/무제 파일.md"
+                "file": "데이터 접근 기술/JPA/영속성 관리.md"
               }
             }
           }
@@ -155,10 +154,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b54e4327157a3649",
+  "active": "97106a7be66e5a17",
   "lastOpenFiles": [
     "Spring/스프링 예외처리와 오류 페이지/서블릿 예외처리 관련.md",
-    "데이터 접근 기술/JPA/무제 파일.md",
+    "데이터 접근 기술/JPA/영속성 관리.md",
     "데이터 접근 기술/JPA",
     "무제 폴더",
     "데이터 접근 기술",
