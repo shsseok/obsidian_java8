@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6f56532cfb0bf532",
+        "id": "33c43e4a21efaaf3",
         "type": "tabs",
         "children": [
           {
-            "id": "b54e4327157a3649",
+            "id": "c3ab92d1143e3365",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "데이터 접근 기술/JPA/연관관계 매핑/연관관계 매핑.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터 접근 기술/JPA/연관관계 매핑/연관관계 매핑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터 접근 기술/JPA/연관관계 매핑/연관관계 매핑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "데이터 접근 기술/JPA/연관관계 매핑/연관관계 매핑.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,8 +146,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b54e4327157a3649",
+  "active": "c3ab92d1143e3365",
   "lastOpenFiles": [
+    "무제 파일.canvas",
+    "데이터 접근 기술/JPA/연관관계 매핑/연관관계 매핑.md",
+    "데이터 접근 기술/JPA/연관관계 매핑/단방향 매핑.md",
+    "마크다운/마크다운.md",
+    "마크다운/옵시디언 사용법.md",
+    "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123000617.png",
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123000325.png",
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123000215.png",
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123000120.png",
@@ -165,7 +163,6 @@
     "데이터 접근 기술/JPA/연관관계 매핑/image",
     "데이터 접근 기술/JPA/영속성 관리/영속성 관리.md",
     "데이터 접근 기술/JPA/영속성 관리",
-    "데이터 접근 기술/JPA/연관관계 매핑/연관관계 매핑.md",
     "데이터 접근 기술/JPA/연관관계 매핑",
     "Spring/스프링 예외처리와 오류 페이지/서블릿 예외처리 관련.md",
     "데이터 접근 기술/JPA",
@@ -184,15 +181,11 @@
     "Spring/HTTP 관련/쿠키.md",
     "2023-11-06.md",
     "무제 파일 3.canvas",
-    "무제 파일.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "Spring/스프링 예외처리와 오류 페이지",
     "Spring/스프링 검증 유효성 검사 관련/BindingResult.md",
     "Spring/스프링 MVC/image/Pasted image 20231104201330.png",
-    "Spring/스프링 MVC/image/Pasted image 20231104005730.png",
-    "Spring/스프링 MVC/image/Pasted image 20231103234901.png",
-    "마크다운/마크다운.md",
     "Spring/스프링 MVC/image",
     "Spring/스프링의 핵심 원리/빈 스코프.md",
     "Spring/스프링의 핵심 원리/빈 생명주기 콜백.md",
@@ -203,8 +196,6 @@
     "java8/Optional.md",
     "java8/메소드 참조.md",
     "java8/래퍼 클래스와 넘버 클래스.md",
-    "java8/스트림.md",
-    "java8/함수형 인터페이스.md",
-    "java8/제네릭.md"
+    "java8/스트림.md"
   ]
 }
