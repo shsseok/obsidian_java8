@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터 접근 기술/JPA/영속성 관리.md",
+                "file": "데이터 접근 기술/JPA/연관관계 매핑/연관관계 매핑.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터 접근 기술/JPA/영속성 관리.md",
+                "file": "데이터 접근 기술/JPA/연관관계 매핑/연관관계 매핑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터 접근 기술/JPA/영속성 관리.md",
+                "file": "데이터 접근 기술/JPA/연관관계 매핑/연관관계 매핑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터 접근 기술/JPA/영속성 관리.md"
+                "file": "데이터 접근 기술/JPA/연관관계 매핑/연관관계 매핑.md"
               }
             }
           }
@@ -154,10 +154,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "97106a7be66e5a17",
+  "active": "b54e4327157a3649",
   "lastOpenFiles": [
+    "데이터 접근 기술/JPA/영속성 관리/영속성 관리.md",
+    "데이터 접근 기술/JPA/영속성 관리",
+    "데이터 접근 기술/JPA/연관관계 매핑/연관관계 매핑.md",
+    "데이터 접근 기술/JPA/연관관계 매핑",
     "Spring/스프링 예외처리와 오류 페이지/서블릿 예외처리 관련.md",
-    "데이터 접근 기술/JPA/영속성 관리.md",
     "데이터 접근 기술/JPA",
     "무제 폴더",
     "데이터 접근 기술",
@@ -195,16 +198,12 @@
     "Spring/스프링의 핵심 원리/컴포넌트 스캔.md",
     "java8/람다식.md",
     "Context/spacesLastSync.log",
-    "Context",
-    "Spring/스프링 MVC",
     "java8/스트림 만들기와 중간연산 최종연산.md",
     "java8/Optional.md",
     "java8/메소드 참조.md",
     "java8/래퍼 클래스와 넘버 클래스.md",
     "java8/스트림.md",
     "java8/함수형 인터페이스.md",
-    "java8/제네릭.md",
-    "java8/Function 패키지.md",
-    "java8/java8.md"
+    "java8/제네릭.md"
   ]
 }
