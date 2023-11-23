@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터 접근 기술/JPA/연관관계 매핑/단방향 매핑.md",
+                "file": "데이터 접근 기술/JPA/연관관계 매핑/양방향 연관관계와 연관관계의 주인.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터 접근 기술/JPA/연관관계 매핑/단방향 매핑.md",
+                "file": "데이터 접근 기술/JPA/연관관계 매핑/양방향 연관관계와 연관관계의 주인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터 접근 기술/JPA/연관관계 매핑/단방향 매핑.md",
+                "file": "데이터 접근 기술/JPA/연관관계 매핑/양방향 연관관계와 연관관계의 주인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터 접근 기술/JPA/연관관계 매핑/단방향 매핑.md"
+                "file": "데이터 접근 기술/JPA/연관관계 매핑/양방향 연관관계와 연관관계의 주인.md"
               }
             }
           }
@@ -169,8 +169,13 @@
   },
   "active": "9597ed474bfe2182",
   "lastOpenFiles": [
-    "데이터 접근 기술/JPA/연관관계 매핑/연관관계 매핑.md",
+    "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123225343.png",
+    "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123225246.png",
+    "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123225102.png",
     "데이터 접근 기술/JPA/연관관계 매핑/단방향 매핑.md",
+    "데이터 접근 기술/JPA/연관관계 매핑/양방향 연관관계와 연관관계의 주인.md",
+    "데이터 접근 기술/JPA/연관관계 매핑/연관관계 매핑.md",
+    "무제 파일 1.canvas",
     "무제 파일.canvas",
     "마크다운/마크다운.md",
     "마크다운/옵시디언 사용법.md",
@@ -193,7 +198,6 @@
     "Spring/어노테이션 만들기/ArgumentResolver.md",
     "Spring/어노테이션 만들기",
     "Spring/스프링 로그인 관련/image/Pasted image 20231108001037.png",
-    "Spring/스프링 로그인 관련/image/Pasted image 20231108000933.png",
     "Spring/스프링 로그인 관련/image",
     "Spring/스프링 로그인 관련/로그인 처리.md",
     "Spring/스프링 MVC/스프링 MVC의 기본적인 기능들(몰랐던 기능 모음).md",
@@ -203,10 +207,8 @@
     "2023-11-06.md",
     "무제 파일 3.canvas",
     "무제 파일 2.canvas",
-    "무제 파일 1.canvas",
     "Spring/스프링 예외처리와 오류 페이지",
     "Spring/스프링 검증 유효성 검사 관련/BindingResult.md",
-    "Spring/스프링 MVC/image/Pasted image 20231104201330.png",
     "Spring/스프링 MVC/image",
     "Spring/스프링의 핵심 원리/빈 스코프.md",
     "Spring/스프링의 핵심 원리/빈 생명주기 콜백.md",
@@ -216,7 +218,6 @@
     "java8/스트림 만들기와 중간연산 최종연산.md",
     "java8/Optional.md",
     "java8/메소드 참조.md",
-    "java8/래퍼 클래스와 넘버 클래스.md",
-    "java8/스트림.md"
+    "java8/래퍼 클래스와 넘버 클래스.md"
   ]
 }
