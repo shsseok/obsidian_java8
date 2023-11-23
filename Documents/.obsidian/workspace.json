@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터 접근 기술/JPA/연관관계 매핑/연관관계 매핑.md",
+                "file": "데이터 접근 기술/JPA/연관관계 매핑/양방향 연관관계와 연관관계의 주인.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터 접근 기술/JPA/연관관계 매핑/양방향 연관관계와 연관관계의 주인.md",
+                "file": "마크다운/마크다운.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,25 +166,26 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9597ed474bfe2182",
+  "active": "c3ab92d1143e3365",
   "lastOpenFiles": [
+    "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123233437.png",
+    "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123233419.png",
+    "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123233227.png",
+    "데이터 접근 기술/JPA/연관관계 매핑/연관관계 매핑.md",
+    "마크다운/마크다운.md",
+    "마크다운/옵시디언 사용법.md",
+    "데이터 접근 기술/JPA/연관관계 매핑/양방향 연관관계와 연관관계의 주인.md",
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123225343.png",
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123225246.png",
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123225102.png",
     "데이터 접근 기술/JPA/연관관계 매핑/단방향 매핑.md",
-    "데이터 접근 기술/JPA/연관관계 매핑/양방향 연관관계와 연관관계의 주인.md",
-    "데이터 접근 기술/JPA/연관관계 매핑/연관관계 매핑.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
-    "마크다운/마크다운.md",
-    "마크다운/옵시디언 사용법.md",
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123000617.png",
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123000325.png",
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123000215.png",
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123000120.png",
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123000014.png",
-    "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231122235923.png",
-    "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231122235908.png",
     "데이터 접근 기술/JPA/연관관계 매핑/image",
     "데이터 접근 기술/JPA/영속성 관리/영속성 관리.md",
     "데이터 접근 기술/JPA/영속성 관리",
@@ -197,7 +197,6 @@
     "Spring/스프링 로그인 관련/필터,인터셉터.md",
     "Spring/어노테이션 만들기/ArgumentResolver.md",
     "Spring/어노테이션 만들기",
-    "Spring/스프링 로그인 관련/image/Pasted image 20231108001037.png",
     "Spring/스프링 로그인 관련/image",
     "Spring/스프링 로그인 관련/로그인 처리.md",
     "Spring/스프링 MVC/스프링 MVC의 기본적인 기능들(몰랐던 기능 모음).md",
