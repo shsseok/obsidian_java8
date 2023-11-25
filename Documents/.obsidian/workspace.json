@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "fd2af8b2e6b80772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "데이터 접근 기술/JPA/연관관계 매핑/단방향 매핑.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9597ed474bfe2182",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터 접근 기술/JPA/연관관계 매핑/양방향 매핑시 가장 많이 하는 실수(내가 했던 실수).md",
+                "file": "데이터 접근 기술/JPA/연관관계 매핑/단방향 매핑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터 접근 기술/JPA/연관관계 매핑/양방향 매핑시 가장 많이 하는 실수(내가 했던 실수).md",
+                "file": "데이터 접근 기술/JPA/연관관계 매핑/단방향 매핑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터 접근 기술/JPA/연관관계 매핑/양방향 매핑시 가장 많이 하는 실수(내가 했던 실수).md"
+                "file": "데이터 접근 기술/JPA/연관관계 매핑/단방향 매핑.md"
               }
             }
           }
@@ -180,7 +191,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a1d7ec3745bcf878",
+  "active": "fd2af8b2e6b80772",
   "lastOpenFiles": [
     "데이터 접근 기술/JPA/연관관계 매핑/양방향 연관관계와 연관관계의 주인.md",
     "데이터 접근 기술/JPA/연관관계 매핑/양방향 매핑시 가장 많이 하는 실수(내가 했던 실수).md",
