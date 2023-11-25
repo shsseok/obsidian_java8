@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터 접근 기술/JPA/연관관계 매핑/단방향 매핑.md",
+                "file": "데이터 접근 기술/JPA/연관관계 매핑/양방향 연관관계와 연관관계의 주인.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터 접근 기술/JPA/연관관계 매핑/단방향 매핑.md",
+                "file": "데이터 접근 기술/JPA/연관관계 매핑/양방향 연관관계와 연관관계의 주인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터 접근 기술/JPA/연관관계 매핑/단방향 매핑.md",
+                "file": "데이터 접근 기술/JPA/연관관계 매핑/양방향 연관관계와 연관관계의 주인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터 접근 기술/JPA/연관관계 매핑/단방향 매핑.md"
+                "file": "데이터 접근 기술/JPA/연관관계 매핑/양방향 연관관계와 연관관계의 주인.md"
               }
             }
           }
@@ -193,6 +193,7 @@
   },
   "active": "fd2af8b2e6b80772",
   "lastOpenFiles": [
+    "데이터 접근 기술/JPA/연관관계 매핑/단방향 매핑.md",
     "데이터 접근 기술/JPA/연관관계 매핑/양방향 연관관계와 연관관계의 주인.md",
     "데이터 접근 기술/JPA/연관관계 매핑/양방향 매핑시 가장 많이 하는 실수(내가 했던 실수).md",
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123233437.png",
@@ -204,7 +205,6 @@
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123225343.png",
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123225246.png",
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123225102.png",
-    "데이터 접근 기술/JPA/연관관계 매핑/단방향 매핑.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123000617.png",
