@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터 접근 기술/JPA/연관관계 매핑/양방향 연관관계와 연관관계의 주인.md",
+                "file": "데이터 접근 기술/JPA/연관관계 매핑/단방향 매핑.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터 접근 기술/JPA/연관관계 매핑/양방향 연관관계와 연관관계의 주인.md",
+                "file": "데이터 접근 기술/JPA/연관관계 매핑/단방향 매핑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터 접근 기술/JPA/연관관계 매핑/양방향 연관관계와 연관관계의 주인.md",
+                "file": "데이터 접근 기술/JPA/연관관계 매핑/단방향 매핑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터 접근 기술/JPA/연관관계 매핑/양방향 연관관계와 연관관계의 주인.md"
+                "file": "데이터 접근 기술/JPA/연관관계 매핑/단방향 매핑.md"
               }
             }
           }
@@ -191,15 +191,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fd2af8b2e6b80772",
+  "active": "97106a7be66e5a17",
   "lastOpenFiles": [
-    "데이터 접근 기술/JPA/연관관계 매핑/단방향 매핑.md",
-    "데이터 접근 기술/JPA/연관관계 매핑/양방향 연관관계와 연관관계의 주인.md",
     "데이터 접근 기술/JPA/연관관계 매핑/양방향 매핑시 가장 많이 하는 실수(내가 했던 실수).md",
+    "데이터 접근 기술/JPA/연관관계 매핑/단방향 매핑.md",
+    "데이터 접근 기술/JPA/연관관계 매핑/연관관계 매핑.md",
+    "데이터 접근 기술/JPA/연관관계 매핑/양방향 연관관계와 연관관계의 주인.md",
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123233437.png",
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123233419.png",
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123233227.png",
-    "데이터 접근 기술/JPA/연관관계 매핑/연관관계 매핑.md",
     "마크다운/마크다운.md",
     "마크다운/옵시디언 사용법.md",
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123225343.png",
