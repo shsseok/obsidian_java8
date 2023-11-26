@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터 접근 기술/JPA/연관관계 매핑/@MappedSuperclass.md",
+                "file": "데이터 접근 기술/JPA/연관관계 매핑/프록시.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터 접근 기술/JPA/연관관계 매핑/@MappedSuperclass.md",
+                "file": "데이터 접근 기술/JPA/연관관계 매핑/프록시.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터 접근 기술/JPA/연관관계 매핑/@MappedSuperclass.md",
+                "file": "데이터 접근 기술/JPA/연관관계 매핑/프록시.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터 접근 기술/JPA/연관관계 매핑/@MappedSuperclass.md"
+                "file": "데이터 접근 기술/JPA/연관관계 매핑/프록시.md"
               }
             }
           }
@@ -205,8 +205,9 @@
   },
   "active": "7d54cca94f94b92e",
   "lastOpenFiles": [
-    "무제 파일.canvas",
     "데이터 접근 기술/JPA/연관관계 매핑/@MappedSuperclass.md",
+    "데이터 접근 기술/JPA/연관관계 매핑/프록시.md",
+    "무제 파일.canvas",
     "데이터 접근 기술/JPA/연관관계 매핑/상속관계 매핑.md",
     "데이터 접근 기술/JPA/연관관계 매핑/양방향 연관관계와 연관관계의 주인.md",
     "데이터 접근 기술/JPA/연관관계 매핑/단방향 매핑.md",
