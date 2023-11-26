@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터 접근 기술/JPA/연관관계 매핑/상속관계 매핑.md",
+                "file": "데이터 접근 기술/JPA/연관관계 매핑/@MappedSuperclass.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터 접근 기술/JPA/연관관계 매핑/상속관계 매핑.md",
+                "file": "데이터 접근 기술/JPA/연관관계 매핑/@MappedSuperclass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터 접근 기술/JPA/연관관계 매핑/상속관계 매핑.md",
+                "file": "데이터 접근 기술/JPA/연관관계 매핑/@MappedSuperclass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터 접근 기술/JPA/연관관계 매핑/상속관계 매핑.md"
+                "file": "데이터 접근 기술/JPA/연관관계 매핑/@MappedSuperclass.md"
               }
             }
           }
@@ -205,8 +205,10 @@
   },
   "active": "7d54cca94f94b92e",
   "lastOpenFiles": [
-    "데이터 접근 기술/JPA/연관관계 매핑/양방향 연관관계와 연관관계의 주인.md",
+    "무제 파일.canvas",
+    "데이터 접근 기술/JPA/연관관계 매핑/@MappedSuperclass.md",
     "데이터 접근 기술/JPA/연관관계 매핑/상속관계 매핑.md",
+    "데이터 접근 기술/JPA/연관관계 매핑/양방향 연관관계와 연관관계의 주인.md",
     "데이터 접근 기술/JPA/연관관계 매핑/단방향 매핑.md",
     "데이터 접근 기술/JPA/연관관계 매핑/양방향 매핑시 가장 많이 하는 실수(내가 했던 실수).md",
     "데이터 접근 기술/JPA/연관관계 매핑/연관관계 매핑.md",
@@ -219,7 +221,6 @@
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123225246.png",
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123225102.png",
     "무제 파일 1.canvas",
-    "무제 파일.canvas",
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123000617.png",
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123000325.png",
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123000215.png",
@@ -252,8 +253,6 @@
     "Spring/스프링의 핵심 원리/의존관계 자동 주입.md",
     "Spring/스프링의 핵심 원리/컴포넌트 스캔.md",
     "java8/람다식.md",
-    "java8/스트림 만들기와 중간연산 최종연산.md",
-    "java8/Optional.md",
-    "java8/메소드 참조.md"
+    "java8/스트림 만들기와 중간연산 최종연산.md"
   ]
 }
