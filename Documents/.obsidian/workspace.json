@@ -205,6 +205,7 @@
   },
   "active": "7d54cca94f94b92e",
   "lastOpenFiles": [
+    "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231126162305.png",
     "데이터 접근 기술/JPA/연관관계 매핑/@MappedSuperclass.md",
     "데이터 접근 기술/JPA/연관관계 매핑/프록시.md",
     "무제 파일.canvas",
@@ -253,7 +254,6 @@
     "Spring/스프링의 핵심 원리/빈 생명주기 콜백.md",
     "Spring/스프링의 핵심 원리/의존관계 자동 주입.md",
     "Spring/스프링의 핵심 원리/컴포넌트 스캔.md",
-    "java8/람다식.md",
-    "java8/스트림 만들기와 중간연산 최종연산.md"
+    "java8/람다식.md"
   ]
 }
