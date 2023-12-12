@@ -146,8 +146,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6833eac629b8d385",
+  "active": "97106a7be66e5a17",
   "lastOpenFiles": [
+    "ARCHEIVE",
+    "AREA",
+    "Resources",
+    "Projects",
+    "Context/spacesLastSync.log",
+    "Context",
     "옵시디언 사용법/옵시디언 사용법 링크.md",
     "옵시디언 사용법/현재 정리 해야하는 글.md",
     "옵시디언 사용법/.md",
@@ -164,8 +170,6 @@
     "데이터 접근 기술/Mybatis.md",
     "데이터 접근 기술/Mybatis",
     "고민/전체 모음.md",
-    "Context/spacesLastSync.log",
-    "Context",
     "고민",
     "Spring/스프링 검증 유효성 검사 관련/BindingResult.md",
     "데이터 접근 기술/JPA/값 타입/값 타입.md",
@@ -184,7 +188,6 @@
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123233437.png",
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123233419.png",
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123233227.png",
-    "마크다운/마크다운.md",
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123225343.png",
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123225246.png",
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123225102.png",
@@ -193,9 +196,6 @@
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123000325.png",
     "데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123000215.png",
     "데이터 접근 기술/JPA/연관관계 매핑/image",
-    "데이터 접근 기술/JPA/영속성 관리",
-    "데이터 접근 기술/JPA/연관관계 매핑",
-    "데이터 접근 기술/JPA",
     "무제 파일 3.canvas",
     "무제 파일 2.canvas"
   ]
