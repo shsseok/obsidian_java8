@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "고민/전체 모음.md",
+                "file": "java8/람다식.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "고민/전체 모음.md",
+                "file": "java8/람다식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "고민/전체 모음.md",
+                "file": "java8/람다식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "고민/전체 모음.md"
+                "file": "java8/람다식.md"
               }
             }
           }
@@ -157,6 +157,8 @@
   "active": "42c5a7fe4ae1d696",
   "lastOpenFiles": [
     "고민/전체 모음.md",
+    "Context/spacesLastSync.log",
+    "Context",
     "고민",
     "Spring/스프링 검증 유효성 검사 관련/BindingResult.md",
     "데이터 접근 기술/JPA/값 타입/값 타입.md",
@@ -193,8 +195,6 @@
     "데이터 접근 기술",
     "Spring/스프링 로그인 관련/필터,인터셉터.md",
     "Spring/어노테이션 만들기/ArgumentResolver.md",
-    "Spring/어노테이션 만들기",
-    "Spring/스프링 로그인 관련/image",
     "Spring/스프링 로그인 관련/로그인 처리.md",
     "Spring/스프링 MVC/스프링 MVC의 기본적인 기능들(몰랐던 기능 모음).md",
     "Spring/스프링 MVC/스프링 MVC의 실제 구조 이해.md",
@@ -204,7 +204,6 @@
     "무제 파일 3.canvas",
     "무제 파일 2.canvas",
     "Spring/스프링의 핵심 원리/빈 스코프.md",
-    "Spring/스프링의 핵심 원리/빈 생명주기 콜백.md",
-    "Spring/스프링의 핵심 원리/의존관계 자동 주입.md"
+    "Spring/스프링의 핵심 원리/빈 생명주기 콜백.md"
   ]
 }
