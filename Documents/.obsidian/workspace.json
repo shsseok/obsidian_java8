@@ -69,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -148,12 +149,12 @@
   },
   "active": "97106a7be66e5a17",
   "lastOpenFiles": [
+    "Context/spacesLastSync.log",
+    "Context",
     "ARCHEIVE",
     "AREA",
     "RESOURCE",
     "PROJECTS",
-    "Context/spacesLastSync.log",
-    "Context",
     "RESOURCE/옵시디언 사용법/옵시디언 사용법 링크.md",
     "옵시디언 사용법/현재 정리 해야하는 글.md",
     "옵시디언 사용법/.md",
