@@ -11,8 +11,12 @@
             "id": "d94f3a93e9e64b16",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "RESOURCE/Spring/security/Security.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "RESOURCE/Spring/security/Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "RESOURCE/Spring/security/Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "RESOURCE/Spring/security/Security.md"
+              }
             }
           }
         ]
@@ -147,8 +154,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "97106a7be66e5a17",
+  "active": "d94f3a93e9e64b16",
   "lastOpenFiles": [
+    "RESOURCE/Spring/security/image/Pasted image 20231230212017.png",
+    "RESOURCE/Spring/security/image/Pasted image 20231230211952.png",
+    "RESOURCE/Spring/security/image",
+    "RESOURCE/Spring/무제 파일.md",
+    "RESOURCE/Spring/security/Security.md",
+    "RESOURCE/Spring/security",
     "Context/spacesLastSync.log",
     "Context",
     "ARCHEIVE",
@@ -175,17 +188,13 @@
     "RESOURCE/Spring/스프링 검증 유효성 검사 관련/BindingResult.md",
     "RESOURCE/데이터 접근 기술/JPA/값 타입/값 타입.md",
     "RESOURCE/데이터 접근 기술/JPA/프록시와 연관관계/즉시 로딩과 지연 로딩.md",
-    "RESOURCE/데이터 접근 기술/JPA/값 타입",
     "RESOURCE/데이터 접근 기술/JPA/프록시와 연관관계/프록시.md",
-    "RESOURCE/데이터 접근 기술/JPA/프록시와 연관관계",
     "RESOURCE/데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231126162305.png",
     "RESOURCE/데이터 접근 기술/JPA/연관관계 매핑/@MappedSuperclass.md",
     "무제 파일.canvas",
     "RESOURCE/데이터 접근 기술/JPA/연관관계 매핑/상속관계 매핑.md",
     "RESOURCE/데이터 접근 기술/JPA/연관관계 매핑/양방향 연관관계와 연관관계의 주인.md",
     "RESOURCE/데이터 접근 기술/JPA/연관관계 매핑/단방향 매핑.md",
-    "RESOURCE/데이터 접근 기술/JPA/연관관계 매핑/양방향 매핑시 가장 많이 하는 실수(내가 했던 실수).md",
-    "RESOURCE/데이터 접근 기술/JPA/연관관계 매핑/연관관계 매핑.md",
     "RESOURCE/데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123233437.png",
     "RESOURCE/데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123233419.png",
     "RESOURCE/데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123233227.png",
@@ -195,8 +204,6 @@
     "무제 파일 1.canvas",
     "RESOURCE/데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123000617.png",
     "RESOURCE/데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123000325.png",
-    "RESOURCE/데이터 접근 기술/JPA/연관관계 매핑/image/Pasted image 20231123000215.png",
-    "RESOURCE/데이터 접근 기술/JPA/연관관계 매핑/image",
     "무제 파일 3.canvas",
     "무제 파일 2.canvas"
   ]
